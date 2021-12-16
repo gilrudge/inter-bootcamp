@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+[data-logo-inter]{
+  width: 150px;
+  height: 50px;
+  padding-left: 15px;
+  
+}
+
+.navbar {
+  background-color: #333;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: #FF7A00;
+  font-weight: bold;
+}
+
+.quem-somos {
+  background-color: #FF7A00;
+  color: white;
+  font-weight: 500;
+}
+.parceiros{
+  background-color: #333;
+  color: white;
+  font-weight: 500;
+}
+
+
+.margin{
+  padding: 30px;
+}
+
+.img-quemsomos{
+  width: 50%;
+  height: 25rem;
+}
+
+.img-parceiros{
+  width: 200px;
+  height: 50px
+}
+
+.img-servicos{
+  width: 100%;
+  
+}
+
+.container{
+  padding-top: 2rem;
+}
+
+.bg-footer{
+  background-color: #333;
+  padding: 10px;
+  color: azure;
+}
