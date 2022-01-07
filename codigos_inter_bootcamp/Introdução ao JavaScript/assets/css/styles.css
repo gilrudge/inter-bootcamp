@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  flex-direction: column;
+  color: gray;
+  text-align: center;
+  
+}
+
+[data-contador]{
+  
+  font-size: x-large;
+  margin: auto;
+  padding: 20px;
+  background-color: black;
+  width: 50%;
+  
+}
+[data-todo]{
+  
+  font-size: x-large;
+  margin: auto;
+  padding: 20px;
+  background-color: black;
+  width: 50%;
+    
+}
+
+[data-contagem]{  
+  margin-top: 2rem;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+:checked + span {
+  text-decoration: line-through;
+  color: grey;
+}
