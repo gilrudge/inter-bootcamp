@@ -6,3 +6,4 @@ Repositório referente ao bootcamp Banco Inter
 - Construindo páginas para internet com Bootstrap
 - Introdução ao JavaScript
 - Sintaxe básica em JavaScript
+- Sintaxe e Operadores
