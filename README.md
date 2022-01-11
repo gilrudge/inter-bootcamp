@@ -7,4 +7,4 @@ Repositório referente ao bootcamp Banco Inter
 - Introdução ao JavaScript
 - Sintaxe básica em JavaScript
 - Sintaxe e Operadores
-- Bariáveis e Tipos
+- Variáveis e Tipos
