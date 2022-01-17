@@ -8,3 +8,4 @@ Repositório referente ao bootcamp Banco Inter
 - Sintaxe básica em JavaScript
 - Sintaxe e Operadores
 - Variáveis e Tipos
+- Debugging e Error Handling
