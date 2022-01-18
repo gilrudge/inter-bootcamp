@@ -9,3 +9,5 @@ Repositório referente ao bootcamp Banco Inter
 - Sintaxe e Operadores
 - Variáveis e Tipos
 - Debugging e Error Handling
+- JavaScript Assincrono
+- Orientação a Objetos
