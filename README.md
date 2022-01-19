@@ -14,3 +14,4 @@ Repositório referente ao bootcamp Banco Inter
 - JavaScript Assincrono
 - Orientação a Objetos
 - Map, Filter Reduce
+- Manipulando a D.O.M com JavaScript
