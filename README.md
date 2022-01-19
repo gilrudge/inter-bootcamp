@@ -8,6 +8,9 @@ Repositório referente ao bootcamp Banco Inter
 - Sintaxe básica em JavaScript
 - Sintaxe e Operadores
 - Variáveis e Tipos
+- Funções
+- Coleções
 - Debugging e Error Handling
 - JavaScript Assincrono
 - Orientação a Objetos
+- Map, Filter Reduce
