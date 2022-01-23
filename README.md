@@ -15,3 +15,4 @@ Repositório referente ao bootcamp Banco Inter
 - Orientação a Objetos
 - Map, Filter Reduce
 - Manipulando a D.O.M com JavaScript
+- Recriando a interface da Netflix
